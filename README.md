@@ -95,8 +95,6 @@ Select "Set as Startup Project"
 
 Update Connection string App.Config file
 
-#### Run using:
-
 Press F5 to start with debugging
 
 Or Ctrl+F5 to start without debugging
