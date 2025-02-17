@@ -20,10 +20,10 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
 ### Power Platform CLI: 
  [Install the latest version.](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction?tabs=windows#install-microsoft-power-platform-cli)  
   
-### Dataverse plug-ins: 
+### Dataverse Plug-ins: 
  [Microsoft.CrmSdk.CoreAssemblies](https://www.nuget.org/packages/microsoft.crmsdk.coreassemblies/)
 
-### Client applications
+### Client Applications
 [Microsoft.PowerPlatform.Dataverse.Client](https://www.nuget.org/packages/Microsoft.PowerPlatform.Dataverse.Client/)
 # Setup Instructions
   1). Install Power Platform CLI: Follow the official installation guide.
