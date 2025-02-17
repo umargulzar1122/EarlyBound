@@ -99,4 +99,4 @@ Press F5 to start with debugging
 
 Or Ctrl+F5 to start without debugging
 
-
+[Official Documentation](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/org-service/generate-early-bound-classes)
