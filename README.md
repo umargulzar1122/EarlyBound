@@ -18,7 +18,9 @@ This repository guides generating early-bound classes for use with the Microsoft
 
 # Prerequisites
   Before generating early-bound classes, ensure you have the following:
-
+### .Net Framework Class Library
+  Add the .Net Framework Class library to your solution.
+  
 ### Power Platform CLI: 
  [Install the latest version.](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction?tabs=windows#install-microsoft-power-platform-cli)  
   
