@@ -86,14 +86,11 @@ Restore Dependencies
 
 ### Set Startup Project (Visual Studio)
 
-Open EarlyBound.sln
-
 In Solution Explorer:
 
 Right-click the D365.Plugins.ConsoleApp Project
 
 Select "Set as Startup Project"
-
 
 Update Connection string App.Config file
 
