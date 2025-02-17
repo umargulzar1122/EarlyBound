@@ -37,19 +37,19 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
   2). Populate it with the desired configuration. Below is an example configuration:
   ```yaml
  {
-  "entityNamesFilter": ["account", "contact"],
-  "generateSdkMessages": true,
-  "namespace": "YourNamespace",
-  "serviceContextName": "ServiceContext",
-  "language": "CS",
-  "generateGlobalOptionSets": false,
-  "emitFieldsClasses": false,
-  "emitEntityETC": false,
-  "emitVirtualAttributes": false,
-  "logLevel": "Off",
-  "entityTypesFolder": "Entities",
-  "optionSetsTypesFolder": "OptionSets",
-  "messagesTypesFolder": "Messages"
+    "entityNamesFilter": ["account", "contact"],
+    "generateSdkMessages": true,
+    "namespace": "YourNamespace",
+    "serviceContextName": "ServiceContext",
+    "language": "CS",
+    "generateGlobalOptionSets": false,
+    "emitFieldsClasses": false,
+    "emitEntityETC": false,
+    "emitVirtualAttributes": false,
+    "logLevel": "Off",
+    "entityTypesFolder": "Entities",
+    "optionSetsTypesFolder": "OptionSets",
+    "messagesTypesFolder": "Messages"
 }
 ```
 
