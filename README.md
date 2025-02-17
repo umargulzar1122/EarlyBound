@@ -13,3 +13,13 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
 # LINQ Query Support: 
   Leverage the OrganizationServiceContext class to write LINQ queries against Dataverse data.
 
+
+# Prerequisites
+  Before generating early-bound classes, ensure you have the following:
+
+  ### Power Platform CLI: 
+  Install the latest version. 
+  
+  ### Dataverse plug-ins: 
+  Microsoft.CrmSdk.CoreAssemblies
+
