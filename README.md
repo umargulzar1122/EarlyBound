@@ -17,9 +17,9 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
 # Prerequisites
   Before generating early-bound classes, ensure you have the following:
 
-  ### Power Platform CLI: 
-  Install the latest version. 
+### Power Platform CLI: 
+ [Install the latest version.](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction?tabs=windows#install-microsoft-power-platform-cli)  
   
-  ### Dataverse plug-ins: 
+### Dataverse plug-ins: 
   Microsoft.CrmSdk.CoreAssemblies
 
