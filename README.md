@@ -21,5 +21,12 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
  [Install the latest version.](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction?tabs=windows#install-microsoft-power-platform-cli)  
   
 ### Dataverse plug-ins: 
-  Microsoft.CrmSdk.CoreAssemblies
+ [Microsoft.CrmSdk.CoreAssemblies](https://www.nuget.org/packages/microsoft.crmsdk.coreassemblies/)
+
+# Setup Instructions
+  1). Install Power Platform CLI: Follow the official installation guide.
+  2). Authenticate: Connect to your Dataverse environment using:
+      ```
+      bash pac auth create --url https://yourorg.crm.dynamics.com 
+  ```
 
