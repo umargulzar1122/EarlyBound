@@ -64,3 +64,36 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
 ```
 3). This command generates the early-bound classes based on your configuration and outputs them to the Entities folder.
 
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/umargulzar1122/EarlyBound.git
+```
+
+Go to the project directory
+
+Open the solution file
+
+Restore Dependencies
+
+### Set Startup Project (Visual Studio)
+
+Open EarlyBound.sln
+
+In Solution Explorer:
+
+Right-click the D365.Plugins.ConsoleApp Project
+
+Select "Set as Startup Project"
+
+#### Run using:
+
+Press F5 to start with debugging
+
+Or Ctrl+F5 to start without debugging
+
+
