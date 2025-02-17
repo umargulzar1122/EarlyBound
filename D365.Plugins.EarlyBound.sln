@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365.Plugins.Entities", "D365.Plugins.Entities\D365.Plugins.Entities.csproj", "{F8A685D2-B159-42BA-ADEA-564D34260443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365.Plugins.ConsoleApp", "D365.Plugins.ConsoleApp\D365.Plugins.ConsoleApp.csproj", "{26765C14-36A7-480F-B504-8C2369892113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365.Plugins.Account", "D365.Plugins.Account\D365.Plugins.Account.csproj", "{085DE552-A386-4DC6-8C05-948145A8E197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A685D2-B159-42BA-ADEA-564D34260443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A685D2-B159-42BA-ADEA-564D34260443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A685D2-B159-42BA-ADEA-564D34260443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A685D2-B159-42BA-ADEA-564D34260443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26765C14-36A7-480F-B504-8C2369892113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26765C14-36A7-480F-B504-8C2369892113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26765C14-36A7-480F-B504-8C2369892113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26765C14-36A7-480F-B504-8C2369892113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085DE552-A386-4DC6-8C05-948145A8E197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085DE552-A386-4DC6-8C05-948145A8E197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085DE552-A386-4DC6-8C05-948145A8E197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085DE552-A386-4DC6-8C05-948145A8E197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
