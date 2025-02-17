@@ -34,6 +34,7 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
 ```
 # Configure Settings:
   1). Within the Model folder, create a builderSettings.json file. 
+  
   2). Populate it with the desired configuration. Below is an example configuration:
   ```yaml
  {
