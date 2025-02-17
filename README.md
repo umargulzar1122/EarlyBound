@@ -25,9 +25,9 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
 
 # Setup Instructions
   1). Install Power Platform CLI: Follow the official installation guide.
-  2). Authenticate: Connect to your Dataverse environment using:
   
-      ```bash
-pac auth create --url https://yourorg.crm.dynamics.com
+  2). Authenticate: Connect to your Dataverse environment using:
+  ```bash
+  pac auth create --url https://yourorg.crm.dynamics.com
 ```
 
