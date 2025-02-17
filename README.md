@@ -62,6 +62,5 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
   ```bash
   pac modelbuilder build --settingsTemplateFile ./builderSettings.json --outdirectory ./Entities
 ```
-
-
+3). This command generates the early-bound classes based on your configuration and outputs them to the Entities folder.
 
