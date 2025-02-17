@@ -33,7 +33,7 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
   pac auth create --url https://yourorg.crm.dynamics.com
 ```
 # Configure Settings:
-  1). Within the Model folder, create a builderSettings.json file. 
+  1). Within the Entities folder, create a builderSettings.json file. 
   
   2). Populate it with the desired configuration. Below is an example configuration:
   ```yaml
@@ -53,6 +53,7 @@ Improved Code Readability and Maintainability: Strongly typed classes represent 
     "messagesTypesFolder": "Messages"
 }
 ```
+3). Adjust the settings as needed. For a comprehensive list of configuration options, please take a look at the [official documentation](https://learn.microsoft.com/en-us/power-platform/developer/cli/reference/modelbuilder). 
 
 
 
